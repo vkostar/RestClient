@@ -1,13 +1,13 @@
-package ru.alishev.springcourse.FirstRestApp;
+package com.example.restclient;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FirstRestAppApplicationTests {
+class RestClientApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
